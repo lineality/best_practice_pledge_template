@@ -6,4 +6,5 @@ set up folders,
 
 levels
 
-intros/readme's
+folder for intros/readme's
+- unfamiliar (if old) concepts
