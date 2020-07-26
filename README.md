@@ -8,3 +8,5 @@ levels
 
 folder for intros/readme's
 - unfamiliar (if old) concepts
+
+Areas
