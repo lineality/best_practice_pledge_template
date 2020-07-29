@@ -11,7 +11,8 @@ From a basic, noninvasive and non-controversial level of acknowledging the impor
 
 A basic pledge (consistent with being restricted to recognizing questions) could have four sections:
 ## 1. A Values Statement Section: 
-- regarding operationally defined participation in society and best practice principles
+- regarding participation in society and best practice principles:
+operationally defined: participation-items, setting-location items, definition-behavior items, contact-proximity items, and standard agreement items. 
 
 ## 2. A Clarification Statements Section: 
 - heading off policy predictably contentious topics and obstacles
