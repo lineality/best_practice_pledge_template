@@ -21,7 +21,7 @@ operationally defined: participation-items, setting-location items, definition-b
 
 
 ## 3. A Standard Error Report Section:
-- regarding frequent areas of failure for process audits
+- for auditing frequent areas of process failure
 
 ## 4. A Macro Models Section:
 - Regarding overall policy and process areas of significance
