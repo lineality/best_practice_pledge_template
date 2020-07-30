@@ -15,7 +15,10 @@ A basic pledge (consistent with being restricted to recognizing questions) could
 operationally defined: participation-items, setting-location items, definition-behavior items, contact-proximity items, and standard agreement items. 
 
 ## 2. A Clarification Statements Section: 
-- heading off policy predictably contentious topics and obstacles
+- heading off policy predictably contentious topics and obstacles:
+- Clarifying historically unchallenged problems.
+- Clarifying historically unaffirmed (neglected) constructive values. 
+
 
 ## 3. A Standard Error Report Section:
 - regarding frequent areas of failure for process audits
