@@ -2,7 +2,7 @@
 Open-source template for a Best-Practice Pledge, for data-driven coordinated avoidance of system-collapse.
 
 
-areas
+
 ## Coordination For Best Practice
 
 Nonpartisan policy and data coordination between local executives and administrations can be a cost effective way of preventing and managing problems and liabilities and of facilitating measurable progress. 
