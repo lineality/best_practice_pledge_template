@@ -24,4 +24,5 @@ operationally defined: participation-items, setting-location items, definition-b
 - for auditing frequent areas of process failure
 
 ## 4. A Macro Models Section:
-- Regarding overall policy and process areas of significance
+- important areas for agreements and audits
+
