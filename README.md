@@ -7,22 +7,25 @@ Open-source template for a Best-Practice Pledge, for data-driven coordinated avo
 
 Nonpartisan policy and data coordination between local executives and administrations can be a cost effective way of preventing and managing problems and liabilities and of facilitating measurable progress. 
 
-From a basic, noninvasive and non-controversial level of acknowledging the importance of specific questions, through to deeper levels of exchanging information and coordinating behaviors, a flexible framework or template can be supportive:
+A flexible framework or template can be supportive, for example
+from a basic, noninvasive, and non-controversial level of acknowledging the importance of specific questions, through to deeper levels of exchanging information and coordinating behaviors:
 
-A basic pledge (consistent with being restricted to recognizing questions) could have four sections:
-## 1. A Values Statement Section: 
+A basic best-practice pledge (consistent with being restricted to recognizing questions) could have four sections:
+
+## 1. A Values Statements Section: 
 - regarding participation in society and best practice principles:
 operationally defined: participation-items, setting-location items, definition-behavior items, contact-proximity items, and standard agreement items. 
 
 ## 2. A Clarification Statements Section: 
 - heading off policy predictably contentious topics and obstacles:
-- Clarifying historically unchallenged problems.
-- Clarifying historically unaffirmed (neglected) constructive values. 
-
+- clarifying historically unchallenged problems.
+- clarifying historically unaffirmed (neglected) constructive values. 
 
 ## 3. A Standard Error Report Section:
 - for auditing frequent areas of process failure
 
-## 4. A Macro Models Section:
+## 4. A Macro-Models Section:
 - important areas for agreements and audits
+ 
+
 
