@@ -16,6 +16,7 @@ A basic best-practice pledge (consistent with being restricted to recognizing qu
 ## 1. A Values Statements Section: 
 - regarding participation in society and best practice principles:
 operationally defined: participation-items, setting-location items, definition-behavior items, contact-proximity items, and standard agreement items. 
+- a goal here is establishing compromise-friendly areas where agreements can be aligned, for example areas of agreed upon importance regardless of specific implementation details being different separate time/places/institutions. 
 
 ## 2. A Clarification Statements Section: 
 - heading off policy predictably contentious topics and obstacles:
