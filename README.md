@@ -27,5 +27,3 @@ operationally defined: participation-items, setting-location items, definition-b
 
 ## 4. A Macro-Models Section:
 - important areas for agreements and audits
- 
-
