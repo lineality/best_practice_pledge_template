@@ -2,13 +2,14 @@
 Open-source template for a Best-Practice Pledge, for data-driven coordinated avoidance of system-collapse.
 
 
-
 ## Coordination For Best Practice
 
-Nonpartisan policy and data coordination between local executives and administrations can be a cost effective way of preventing and managing problems and liabilities and of facilitating measurable progress. 
+Nonpartisan policy and data coordination between local executives and administrations can be a cost effective way of:
+- preventing and managing problems and liabilities and 
+- facilitating measurable progress
 
-A flexible framework or template can be supportive, for example
-from a basic, noninvasive, and non-controversial level of acknowledging the importance of specific questions, through to deeper levels of exchanging information and coordinating behaviors:
+A flexible framework or template can be supportive. For example
+a starting place is a basic, noninvasive, and non-controversial level of acknowledging the importance of specific questions. Later can follow deeper levels of exchanging information and coordinating behaviors.
 
 A basic best-practice pledge (consistent with being restricted to recognizing questions) could have four sections:
 
@@ -27,5 +28,4 @@ operationally defined: participation-items, setting-location items, definition-b
 ## 4. A Macro-Models Section:
 - important areas for agreements and audits
  
-
 
