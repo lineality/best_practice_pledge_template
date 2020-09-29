@@ -1,5 +1,5 @@
 # best_practice_pledge_template
-Open-source template for a Best-Practice Pledge, for data-driven coordinated avoidance of system-collapse.
+open-source template for a Best-Practice Pledge, for data-driven coordinated avoidance of system-collapse
 
 
 ## Coordination For Best Practice
@@ -19,7 +19,6 @@ operationally defined: participation-items, setting-location items, definition-b
 - a goal here is establishing compromise-friendly areas where agreements can be aligned, for example areas of agreed upon importance regardless of specific implementation details being different separate time/places/institutions. 
 
 ## 2. A Clarification Statements Section: 
-- clarifying historically unaffirmed (neglected) constructive values
 - clarifying historically unchallenged problems
 - clearly anticipating predictable obstructions
 
